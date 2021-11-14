@@ -17,10 +17,10 @@ const CONFIG = {
   twelveHourFormat: true,
 
   // Greetings
-  greetingMorning: 'good morning!',
+  greetingMorning: 'good morning,',
   greetingAfternoon: 'good afternoon,',
   greetingEvening: 'good evening,',
-  greetingNight: 'go to sleep!',
+  greetingNight: 'go to sleep,',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
@@ -46,33 +46,33 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'youtube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
-      name: 'Reddit',
+      name: 'reddit',
       icon: 'bookmark',
       link: 'https://reddit.com',
     },
     {
+      id: '4',
+      name: 'pinterest',
+      icon: 'image',
+      link: 'https://www.pinterest.com/',
+    },
+    {
+      id: '5',
+      name: 'twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com/',
+    },
+    {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'instagram',
+      icon: 'instagram',
+      link: 'https://www.instagram.com/',
     },
   ],
 
@@ -88,16 +88,16 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'amazon',
+        link: 'https://www.amazon.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'aliexpress',
+        link: 'https://www.aliexpress.com/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'etsy',
+        link: 'https://www.etsy.com/',
       },
       {
         name: 'Rock',
@@ -106,8 +106,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'license',
+        link: 'https://elicense.ohio.gov/OH_HomePage',
       },
       {
         name: 'Figma',
