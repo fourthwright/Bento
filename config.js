@@ -23,9 +23,9 @@ const CONFIG = {
   greetingNight: 'go to sleep,',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
+  weatherKey: '06acd351a3175427896bee38c018cbe1',
+  weatherIcons: 'Dark', // 'Nord', 'Dark', 'White'
+  weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
