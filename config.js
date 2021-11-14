@@ -81,45 +81,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'film',
+  secondListIcon: 'link',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'amazon',
-        link: 'https://www.amazon.com/',
+        name: 'netflix',
+        link: 'https://www.netflix.com/',
       },
       {
-        name: 'aliexpress',
-        link: 'https://www.aliexpress.com/',
+        name: 'hulu',
+        link: 'https://www.hulu.com/,
       },
       {
-        name: 'etsy',
-        link: 'https://www.etsy.com/',
+        name: 'prime video',
+        link: 'https://www.amazon.com/Prime-Video/b?node=2676882011',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'hbo',
+        link: 'https://www.hbomax.com/',
       },
     ],
     secondList: [
+      {
+        name: 'storygraph',
+        link: 'https://www.thestorygraph.com/',
+      },
+      {
+        name: 'goodreads',
+        link: 'https://www.goodreads.com/',
+      },
       {
         name: 'license',
         link: 'https://elicense.ohio.gov/OH_HomePage',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
-      },
-      {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'hoyolab',
+        link: 'https://www.hoyolab.com/home',
       },
     ],
   },
