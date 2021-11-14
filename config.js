@@ -93,7 +93,7 @@ const CONFIG = {
       },
       {
         name: 'hulu',
-        link: 'https://www.hulu.com/,
+        link: 'https://www.hulu.com/',
       },
       {
         name: 'prime video',
